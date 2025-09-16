@@ -24,5 +24,5 @@ Run:
 docker build --no-cache -t my-strapi-app .
 docker run -it --rm -p 1337:1337 my-strapi-app
 
-this will create a docker image and we can run the strapi application.
+this will create a docker image and we can run the strapi application
 
